@@ -1,0 +1,21 @@
+{
+    "timestamp": "2025-06-25 11:07:45",
+    "cum_gam": null,
+    "cum_vec": null,
+    "DEX_Call": 161.236,
+    "DEX_Put": -52.192,
+    "DEX_Total": 109.044,
+    "DEX_Ratio": 3.089286,
+    "GEX_Call": 2328113.476,
+    "GEX_Put": -1503381.131,
+    "GEX_Total": 824732.345,
+    "GEX_Ratio": 1.548585,
+    "VEX_Call": -228980.479,
+    "VEX_Put": 402887.859,
+    "VEX_Total": 173907.38,
+    "VEX_Ratio": -0.568348,
+    "CEX_Call": -11600868.572,
+    "CEX_Put": 17769118.357,
+    "CEX_Total": 6168249.785,
+    "CEX_Ratio": -0.652867
+}
